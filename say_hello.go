@@ -1,4 +1,4 @@
-package go_say_hello
+package golangtestmodules
 
 func SayHello() string {
 	return "hello"
