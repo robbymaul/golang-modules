@@ -1,5 +1,5 @@
 package golangtestmodules
 
 func SayHello() string {
-	return "hello"
+	return "hello world"
 }
